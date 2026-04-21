@@ -1,0 +1,11 @@
+Temperature,Visibility,Wind_Speed,Hour,Weather,Severity
+30,10,5,22,Rain,3
+25,8,3,9,Clear,1
+18,6,7,20,Fog,4
+35,10,4,14,Clear,1
+28,7,6,19,Rain,3
+20,5,8,21,Fog,4
+32,9,2,11,Clear,1
+26,6,5,18,Rain,2
+22,4,9,23,Fog,4
+29,8,3,15,Clear,1
